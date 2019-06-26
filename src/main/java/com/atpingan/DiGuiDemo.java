@@ -17,12 +17,8 @@ public class DiGuiDemo {
 			return DiGui(num -1) * num; 
 		}
 	}
-<<<<<<< HEAD
-	public void say() {
+public void say() {
 		System.out.println("hello ");
 	}
-=======
-	
-	
->>>>>>> refs/heads/test1
+
 }
