@@ -19,5 +19,8 @@ public class DiGuiDemo {
 		}
 	}
 	
+	public void say() {
+		System.out.println(" this is say ");
+	}
 	
 }
