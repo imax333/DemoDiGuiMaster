@@ -16,4 +16,7 @@ public class DiGuiDemo {
 			return DiGui(num -1) * num; 
 		}
 	}
+	public void say() {
+		System.out.println("hello ");
+	}
 }
