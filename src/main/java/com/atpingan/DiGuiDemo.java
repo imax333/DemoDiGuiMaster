@@ -6,6 +6,7 @@ public class DiGuiDemo {
 		
 		int diGui = DiGui(5);
 		System.out.println("  阶乘为 :" + diGui );
+		System.out.println("this  is test 1 ");
 	}
 	
 	
@@ -16,7 +17,12 @@ public class DiGuiDemo {
 			return DiGui(num -1) * num; 
 		}
 	}
+<<<<<<< HEAD
 	public void say() {
 		System.out.println("hello ");
 	}
+=======
+	
+	
+>>>>>>> refs/heads/test1
 }
